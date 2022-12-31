@@ -12,7 +12,7 @@
    8 py manage.py createsuperuser
    9 py manage.py startapp tutorial
 ```
-## How To Use
+## How To Use Repo
 
 <!-- This is an example, please update according to your application -->
 
